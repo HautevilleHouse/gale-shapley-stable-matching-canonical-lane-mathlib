@@ -1,0 +1,14 @@
+import GaleShapleyStableMatchingCanonicalLaneLean.AdmissibleClass
+import GaleShapleyStableMatchingCanonicalLaneLean.BridgeLemmas
+import GaleShapleyStableMatchingCanonicalLaneLean.GateLemmas
+import GaleShapleyStableMatchingCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace GaleShapleyStableMatchingCanonicalLaneLean
+
+-- This module is the root of the GaleShapleyStableMatchingCanonicalLaneLean package
+
+def repositoryName : String := "gale-shapley-stable-matching-canonical-lane"
+
+end GaleShapleyStableMatchingCanonicalLaneLean
+end HautevilleHouse
